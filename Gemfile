@@ -1,0 +1,1 @@
+gem 'selenium-devtools', '= 0.125.0'

@@ -1,6 +1,5 @@
 require 'selenium-webdriver'
 
-
 describe 'Using Selenium' do
   before do
     @driver = Selenium::WebDriver.for :chrome
